@@ -10,7 +10,7 @@
 <body>
   <h1>LOGIN</h1>
   <form autocomplete="off">
-    <input type="text" name="Usuario" id="">
+    <input type="text" name="Usuario" class="usu" id="">
     <input type="password" class="contra" name="Contraseña">
     <input type="submit" class="btn-enviar" value="Enviar">
     <div class="mensaje"></div>
